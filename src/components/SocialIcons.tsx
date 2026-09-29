@@ -1,7 +1,6 @@
 import {
   FaGithub,
   FaGlobe,
-  FaLinkedinIn,
 } from "react-icons/fa";
 import "./styles/SocialIcons.css";
 import { useEffect } from "react";
